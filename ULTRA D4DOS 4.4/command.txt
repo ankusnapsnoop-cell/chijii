@@ -1,0 +1,11 @@
+chmod +x *
+
+./DIE.sh
+
+pip install python-telegram-bot --upgrade
+
+chmod +x *
+
+python3 DIE.py
+
+
